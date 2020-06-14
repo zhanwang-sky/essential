@@ -1,8 +1,8 @@
 [core]
-	ignorecase = false
 	autocrlf = input
 	safecrlf = warn
 	whitespace = trailing-space,space-before-tab,tab-in-indent
+	editor = vim
 [user]
 	name = zhanwang-sky
 	email = zhanwang-sky@users.noreply.github.com

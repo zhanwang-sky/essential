@@ -2,8 +2,8 @@
 
 ## build essential
 * OS X
-    * get Xcode command-line tools
-    * install Homebrew: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+    * xcode-select --install
+    * install Homebrew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
 * Ubuntu\
 `sudo apt install build-essential`
 
@@ -22,9 +22,3 @@
 `brew install tofrodos`
 * Ubuntu\
 `sudo apt install tofrodos`
-
-## minicom
-* OS X\
-`brew install minicom`
-* Ubuntu\
-`sudo apt install minicom`
