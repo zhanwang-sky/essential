@@ -6,3 +6,5 @@
 [user]
 	name = zhanwang-sky
 	email = zhanwang-sky@users.noreply.github.com
+[pull]
+	ff = only
